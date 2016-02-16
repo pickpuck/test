@@ -1,0 +1,67 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+<title>learning html</title>
+</head>
+<body bgcolor="pink">
+    <h1 align="center">first class</h1>
+<p>显示主体内容</p>
+<p>分行
+    显示
+<p>段落的行数依赖于窗口的大小。</p>
+<p>春眠不觉晓， 处处闻啼鸟。</br>
+夜来风雨声， 花落知多少。</br>
+</p>
+<!--注释会在显示出来-->
+<p>水平分割线</p>
+<hr/>
+<a href="http://www.baidu.com">get from</a>
+<img src="C:\Users\zhaoyun\Desktop\oKQr1wadnDDTVeei-jbKwbr9NdII.jpg" width="300"" height="120">
+<p></p>
+<strong>hello world!</strong>
+<br />
+<big>hello world!</big>
+<br />
+<em>hello world!</em>
+<br />
+<i>hello world!</i>
+<br />
+<small>hello world!</small>
+
+<sub>hello</sub>
+
+<sup>world!</sup>
+<br />
+<p>预格式标签</p>
+<pre>if(a=1)
+        set();
+     else
+        end();
+        </pre>
+
+<code>
+    int a=4;
+    int b=5;
+    cout<<"a+b="<<a+b<<endl;
+</code>
+<br/>
+<kbd>input your code...</kbd>
+<br/>
+<tt>commit</tt>
+<br/>
+<samp>samp text</samp>
+<br/>
+<var>declare a variable</var>
+<p></p>
+<address>
+    i'm wangzhe;and modify this html.
+    <a href="mailto:akl798079@163.com">wangzhe</a><br/>
+    开江中路329号老街<br/>
+    </address>
+    <br/>
+    <abbr title="hunt a job is diffcult">jobhunt缩写</abbr>
+    <br>
+    <acronym title="World Wide Web首字母缩写">3W</acronym><br>
+    
+</body>
+</html>
